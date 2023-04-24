@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniketdy
-- 👀 I’m interested in AI & Machine Learning.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on AIML related projects.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning React.js 
+- 💞️ I’m looking to collaborate on WEB3 related projects.
 - 📫 How to reach me ...
 
 <!---
